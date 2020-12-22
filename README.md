@@ -1,7 +1,9 @@
 # Sem07-LB02
 Link zum Video:
+https://www.youtube.com/watch?v=uqlfJt_o1yk&feature=youtu.be
 
 Timestamps:
+
 00:00 - 03:50 / 14 Objekte und Klassen in Javascript (semester 6)
 
 03:50 - 00:00 / 02 SQL, Datenbank und Tabellen erstellen (semester 6)
