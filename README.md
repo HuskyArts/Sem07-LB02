@@ -1,6 +1,6 @@
 # Sem07-LB02
 Link zum Video:
-https://www.youtube.com/watch?v=uqlfJt_o1yk&feature=youtu.be
+https://youtu.be/ujsULtc0ltU
 
 Timestamps:
 
